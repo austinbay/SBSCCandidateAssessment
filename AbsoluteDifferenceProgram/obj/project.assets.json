@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\FrequencyOfEachElement\\FrequencyOfEachElementProgram.csproj",
-      "projectName": "FrequencyOfEachElementProgram",
-      "projectPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\FrequencyOfEachElement\\FrequencyOfEachElementProgram.csproj",
+      "projectUniqueName": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\AbsoluteDifferenceProgram\\AbsoluteDifferenceProgram.csproj",
+      "projectName": "AbsoluteDifferenceProgram",
+      "projectPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\AbsoluteDifferenceProgram\\AbsoluteDifferenceProgram.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\FrequencyOfEachElement\\obj\\",
+      "outputPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\AbsoluteDifferenceProgram\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

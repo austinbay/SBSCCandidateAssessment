@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\StudentAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj": {}
+    "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\StudentAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj": {
+    "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\StudentAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj",
+        "projectUniqueName": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj",
         "projectName": "ConsecutiveElementProgram",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\StudentAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj",
+        "projectPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\ConsecutiveElementProgram\\ConsecutiveElementProgram.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\StudentAssessment\\ConsecutiveElementProgram\\obj\\",
+        "outputPath": "C:\\Projects.Net\\ProjectsOnRepo\\SBSCCandidateAssessment\\ConsecutiveElementProgram\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

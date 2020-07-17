@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrequencyOfEachElementProgram", "FrequencyOfEachElement\FrequencyOfEachElementProgram.csproj", "{7C06E43A-844B-4CCE-8861-52ABA088A76A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrequencyOfEachElementProgram", "FrequencyOfEachElement\FrequencyOfEachElementProgram.csproj", "{7C06E43A-844B-4CCE-8861-52ABA088A76A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsecutiveElementProgram", "ConsecutiveElementProgram\ConsecutiveElementProgram.csproj", "{4EC30107-D514-4738-A0F4-10A36C09F2A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsecutiveElementProgram", "ConsecutiveElementProgram\ConsecutiveElementProgram.csproj", "{4EC30107-D514-4738-A0F4-10A36C09F2A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbsoluteDifferenceProgram", "AbsoluteDifferenceProgram\AbsoluteDifferenceProgram.csproj", "{275A7D9E-AD7D-4CF3-9790-985CE130FD53}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{4EC30107-D514-4738-A0F4-10A36C09F2A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4EC30107-D514-4738-A0F4-10A36C09F2A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4EC30107-D514-4738-A0F4-10A36C09F2A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{275A7D9E-AD7D-4CF3-9790-985CE130FD53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275A7D9E-AD7D-4CF3-9790-985CE130FD53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275A7D9E-AD7D-4CF3-9790-985CE130FD53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275A7D9E-AD7D-4CF3-9790-985CE130FD53}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

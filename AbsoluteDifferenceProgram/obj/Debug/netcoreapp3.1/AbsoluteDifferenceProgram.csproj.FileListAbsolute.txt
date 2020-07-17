@@ -1,0 +1,13 @@
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.exe
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.deps.json
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.runtimeconfig.json
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.runtimeconfig.dev.json
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.dll
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\bin\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.pdb
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.csprojAssemblyReference.cache
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.AssemblyInfoInputs.cache
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.AssemblyInfo.cs
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.csproj.CoreCompileInputs.cache
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.dll
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.pdb
+C:\Projects.Net\ProjectsOnRepo\SBSCCandidateAssessment\AbsoluteDifferenceProgram\obj\Debug\netcoreapp3.1\AbsoluteDifferenceProgram.genruntimeconfig.cache
