@@ -1,6 +1,6 @@
-# SBSCCandidateAssessment
+# Candidate Assessment
 
-Tools used to solve to the problems
+Tools used to solve the problems
 
 1. Visual Studio 2019
 2. .Net Core 3.1
