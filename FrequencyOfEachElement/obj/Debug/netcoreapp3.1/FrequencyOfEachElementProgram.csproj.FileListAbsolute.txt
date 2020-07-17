@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.exe
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.deps.json
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.runtimeconfig.json
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.dll
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\bin\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.pdb
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.dll
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.pdb
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.genruntimeconfig.cache
+C:\Users\HP\source\repos\StudentAssessment\FrequencyOfEachElement\obj\Debug\netcoreapp3.1\FrequencyOfEachElementProgram.csprojAssemblyReference.cache

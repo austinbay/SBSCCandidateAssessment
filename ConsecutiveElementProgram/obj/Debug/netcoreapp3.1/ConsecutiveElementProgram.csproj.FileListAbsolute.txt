@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.exe
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.deps.json
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.runtimeconfig.json
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.runtimeconfig.dev.json
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.dll
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\bin\Debug\netcoreapp3.1\ConsecutiveElementProgram.pdb
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.AssemblyInfo.cs
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.dll
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.pdb
+C:\Users\HP\source\repos\StudentAssessment\ConsecutiveElementProgram\obj\Debug\netcoreapp3.1\ConsecutiveElementProgram.genruntimeconfig.cache
